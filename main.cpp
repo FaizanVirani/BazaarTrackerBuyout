@@ -125,3 +125,4 @@ while 1:
     d = open("Repeats.txt", "w")
     d.close()
     count = 0
+  
